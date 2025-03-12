@@ -29,3 +29,9 @@ import numpy as np
 large_number = 2**63-1
 a = np.array([large_number, large_number])
 ```
+
+## Further reading
+- [How Integers and Floats Work](https://wizardzines.com/zines/integers-floats/) by [Julia Evans](https://jvns.ca/)
+- [Float Exposed](https://float.exposed/)
+- [Integer Exposed](https://integer.exposed/)
+- [Python Documentation on Float Issues](https://docs.python.org/3/tutorial/floatingpoint.html)
